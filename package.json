@@ -13,5 +13,8 @@
   "jest": {
     "transform": {},
     "verbose": true
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
